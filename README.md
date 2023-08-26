@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/fatimadakak" target="blank"><img src="https://img.shields.io/twitter/follow/fatimadakak?logo=twitter&style=for-the-badge" alt="fatimadakak" /></a> </p>
 
-- 🔭 I’m currently working on **...**
+- 🔭 I’m currently working on **App modernization project**
 
-- 🌱 I’m currently learning **Vue.js,JEE,Maching learning**
+- 🌱 I’m currently learning **Devops and cloud**
 
 - 📫 How to reach me **fatima.dakak@etu.uae.ac.ma**
 
