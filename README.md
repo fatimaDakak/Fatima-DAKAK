@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/fatimadakak" target="blank"><img src="https://img.shields.io/twitter/follow/fatimadakak?logo=twitter&style=for-the-badge" alt="fatimadakak" /></a> </p>
 
-- 🔭 I’m currently working on **App modernization project**
+- 🔭 I’m currently seeking a pfe internship in Web dev/ Devops
 
 - 🌱 I’m currently learning **Devops and cloud**
 
